@@ -10,7 +10,7 @@ Kultra Mega Stores (KMS), a prominent distributor of office supplies and furnitu
 2. README.md — summary report, findings and insights
 3. KMS Dataset
 4. kms final Cleaned
-## Findings: 
+## Tasks: 
 Kultra Mega Stores Inventory (2009–2012) This report presents synthesized insights from Kultra Mega Stores’ transactional records spanning 2009–2012, using SQL-based queries on the KMS_CaseStudy dataset. The objective was to derive operational intelligence across sales metrics, customer behavior, geographic performance, and logistics.
 
 ## 1.Most Frequently Sold Product Category
