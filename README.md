@@ -41,5 +41,5 @@ Profitability was computed based on total profit contribution. **Insight:** This
 Order returns were mapped to customer segments via table joins. **Insight:** Segment-specific return patterns may point to misalignments in product expectations, fulfillment experience, or quality control, deserving targeted intervention.
 
 ## 11. Are Shipping Costs Aligned with Order Priority 
-Shipping cost and method were compared with order priority levels. Insight: Discrepancies—such as premium shipping used for low-priority orders—highlight a gap in fulfillment alignment. Recommendation: Codify shipping logistics to ensure method selection corresponds with order urgency, optimizing both service delivery and operational cost.
+Shipping cost and method were compared with order priority levels. **Insight:** Discrepancies—such as premium shipping used for low-priority orders—highlight a gap in fulfillment alignment. Recommendation: Codify shipping logistics to ensure method selection corresponds with order urgency, optimizing both service delivery and operational cost.
 
